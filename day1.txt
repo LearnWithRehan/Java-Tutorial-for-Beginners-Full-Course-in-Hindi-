@@ -1,0 +1,58 @@
+                                        Day:- 1
+💡  What is Java
+
+Java ek high-level, object-oriented, secure aur platform-independent programming language hai.
+Iska use hum Web Applications, Mobile Apps (especially Android), Desktop Software, Embedded Systems aur Enterprise Applications banane ke liye karte hain.
+
+Java ko James Gosling ne 1995 me Sun Microsystems company me develop kiya tha.
+Aur iska main motto tha — Simple, Robust, Secure, aur Platform Independent language banana.
+
+⚙️ Java ke Main Features (Explained Simply)
+
+Ab baat karte hain Java ke kuch main features ki 👇
+
+👉 1. Cross Platform:
+
+Java code kisi bhi Operating System me run ho sakta hai —
+chahe Windows ho, Linux ho ya Mac.
+Isiliye Java ko kaha jata hai — “Write Once, Run Anywhere.”
+
+👉 2. Object-Oriented:
+
+Java me har cheez Classes aur Objects par based hoti hai.
+Matlab jaise real world me Car, Student, Bank Account hote hain,
+waise hi hum Java me unhe program ke andar represent karte hain.
+
+👉 3. Compiled & Interpreted:
+
+Java program pehle compile hota hai aur bytecode me convert hota hai.
+Fir JVM – Java Virtual Machine us bytecode ko execute karti hai.
+Isiliye Java ko compiled aur interpreted dono bola jata hai.
+
+👉 4. Secure:
+
+Java ek secure language hai —
+kyunki iska code bytecode form me hota hai,
+jo direct system access nahi karta,
+isse virus aur hacking ka risk bahut kam ho jata hai.
+
+👉 5. Multi-purpose Language:
+
+Java ka use har jagah hota hai —
+Web development, Mobile apps, Desktop software, Games aur even Robotics tak!
+
+🧠 History of Java (Short Version)
+
+Java ka development 1991 me start hua tha Green Project ke naam se,
+jise James Gosling, Mike Sheridan, aur Patrick Naughton ne start kiya tha.
+Pehle iska naam Greentalk tha, fir Oak,
+aur finally 1995 me iska naam rakha gaya — Java ☕.
+
+🚀 Java Applications (Examples)
+
+Java ka use hum bahut tarah ke applications me karte hain, jaise ki –
+👉 Desktop Apps: Media Player, Antivirus
+👉 Web Apps: Websites & Portals
+👉 Mobile Apps: Android Applications
+👉 Enterprise Apps: Banking, ERP Systems
+👉 Embedded Systems & Games
