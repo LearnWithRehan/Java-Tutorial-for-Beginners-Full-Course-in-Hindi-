@@ -1,0 +1,10 @@
+                Day 2: How to Install JDK | Install Java Step by Step | JDK, JRE, JVM Explained in Hindi
+
+
+👉 JDK (Java Development Kit) – ye developers ke liye hota hai, jisme Java compiler aur tools hote hain code likhne aur run karne ke liye.
+👉 JRE (Java Runtime Environment) – ye program run karne ke liye environment provide karta hai.
+👉 JVM (Java Virtual Machine) – ye actual code ko execute karta hai.
+
+To simple words me —
+JDK = JRE + Development Tools,
+aur JVM, JRE ke andar hoti hai.”
