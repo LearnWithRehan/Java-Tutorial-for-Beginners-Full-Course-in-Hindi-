@@ -1,0 +1,38 @@
+                💡 Day 3: How Java Works & Your First Java Program | JVM, JDK, JRE Explained | Java Tutorial in Hindi
+
+💡 Part 1: What is IntelliJ IDEA?
+“IntelliJ IDEA ek powerful software hai jise hum IDE kehte hain —
+Integrated Development Environment.
+Simple words me, ye ek aisi jagah hai jahan hum apna Java code likh sakte hain,
+run kar sakte hain, aur errors ko easily fix kar sakte hain.”
+
+⚙️ Part 2: Why We Use IntelliJ IDEA
+“Ab baat karte hain — hum IntelliJ kyu use karte hain?
+
+👉 Number 1 – Smart Code Editor:
+IntelliJ aapke code ko samajhta hai aur aapko help karta hai.
+Agar aap kuch galat likhte ho, to wo turant error highlight kar deta hai.
+
+👉 Number 2 – Auto Suggestion:
+Jab aap likhte ho System., to IntelliJ aapko aage ka suggestion de deta hai.
+Isse beginners ke liye coding bahut easy ho jati hai.
+
+👉 Number 3 – Easy Run and Debug:
+Yahan aapko manually command likhne ki zarurat nahi hoti.
+Bas ek single “Run” button dabaiye, aur program execute ho jata hai.
+
+👉 Number 4 – Project Management:
+IntelliJ automatically aapke project ke folders aur files manage karta hai.
+Aapko manually kuch banana nahi padta.
+
+👉 Number 5 – Multi-language Support:
+Sirf Java hi nahi, ye Kotlin, Python, JavaScript jaise languages bhi support karta hai.
+
+👉 Number 6 – Built-in Terminal and Git:
+Aapko alag se terminal open karne ki zarurat nahi hoti.
+Sab kuch IntelliJ ke andar mil jata hai — ekdum professional feel ke sath.”
+
+💬 Part 3: In Short Summary
+“To short me bole to —
+IntelliJ IDEA ek smart classroom ki tarah hai,
+jahan aap coding seekhte ho aur software industry jaisa experience paate ho.”
