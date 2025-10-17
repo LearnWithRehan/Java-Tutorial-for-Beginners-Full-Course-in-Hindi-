@@ -1,0 +1,37 @@
+                          Day 4: Java Program Structure & Syntax
+
+🧩 Part 1 – Java Program Structure
+🗒️ Part 2 – Comments in Java :- 
+         a. // This is a single-line comment 
+         b.  /* This is a multi-line comment */
+
+🔠 Part 3 – Identifiers & Keywords:-
+         a. Identifiers — names hum dete hain variables, classes, methods ko.
+         Example: age, MyClass, showData()
+
+         b. Keywords — reserved words jinka special meaning hota hai.
+            Example: class, public, static, void, int
+           
+🔢 Part 4 – Variables & Data Types (Intro):-
+          Example:- int age = 20;
+                    String name = "Rehan";
+                    float marks = 88.5f;
+
+📏 Part 5 – Syntax Rules & Conventions:- 
+          a.  Har statement ke end me semicolon (;) lagta hai.
+
+          b. Java case-sensitive hai.
+
+          c. Class name capital letter se start hona chahiye.
+
+          d. Variable names camelCase me likhe jaate hain — jaise studentName, totalMarks
+
+
+
+
+🧠 Part 6 – Practice Tasks:-
+        1. Ek program likho jo aapka name aur age print kare.
+
+        2. Code me comments likhkar explain karo.
+
+        3. Ek galat variable name try karo aur dekho compiler kya error deta hai.
