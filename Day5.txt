@@ -1,0 +1,105 @@
+                                                            DAY-5
+💡  What is an Operator in Java?
+
+➡️ Definition:
+An Operator in Java is a symbol that is used to perform operations on variables and values.
+It helps Java programs perform tasks like calculation, comparison, assignment, and decision making.
+
+Example:
+
+int a = 10;
+int b = 5;
+int sum = a + b;  // '+' is an operator that adds two numbers
+System.out.println(sum); // Output: 15
+
+⚙️ Types of Operators in Java (with Best Examples)
+1️⃣ Arithmetic Operators
+
+👉 Used for mathematical calculations like addition, subtraction, etc.
+Operators: + - * / %
+Example:
+
+int a = 12, b = 5;
+System.out.println(a + b); // 17
+System.out.println(a - b); // 7
+System.out.println(a * b); // 60
+System.out.println(a / b); // 2
+System.out.println(a % b); // 2 (remainder)
+
+2️⃣ Relational Operators
+
+👉 Used to compare two values.
+Operators: == != > < >= <=
+Example:
+
+int x = 10, y = 20;
+System.out.println(x > y);  // false
+System.out.println(x < y);  // true
+System.out.println(x == y); // false
+System.out.println(x != y); // true
+
+3️⃣ Logical Operators
+
+👉 Used to combine multiple conditions (true/false results).
+Operators: && || !
+Example:
+
+int age = 20;
+boolean hasID = true;
+
+if (age >= 18 && hasID) {
+    System.out.println("You can vote!");
+} else {
+    System.out.println("You cannot vote!");
+}
+// Output: You can vote!
+
+4️⃣ Assignment Operators
+
+👉 Used to assign values to variables.
+Operators: = += -= *= /= %=
+Example:
+
+int a = 10;
+a += 5; // same as a = a + 5
+System.out.println(a); // 15
+a *= 2; // same as a = a * 2
+System.out.println(a); // 30
+
+5️⃣ Increment & Decrement Operators
+
+👉 Used to increase or decrease a value by 1.
+Operators: ++ --
+Example:
+
+int num = 5;
+System.out.println(num++); // 5 (prints first, then increases)
+System.out.println(++num); // 7 (increases first, then prints)
+System.out.println(num--); // 7 (prints first, then decreases)
+System.out.println(--num); // 5 (decreases first, then prints)
+
+6️⃣ Conditional (Ternary) Operator
+
+👉 Used as a short form of if-else statement.
+Syntax:
+
+variable = (condition) ? value_if_true : value_if_false;
+
+
+Example:
+
+int age = 18;
+String result = (age >= 18) ? "Eligible to Vote" : "Not Eligible";
+System.out.println(result);  // Output: Eligible to Vote
+
+7️⃣ Bitwise Operators
+
+👉 Used to perform operations on bits (0s and 1s).
+Operators: & | ^ ~ << >>
+Example:
+
+int a = 5;   // Binary: 0101
+int b = 3;   // Binary: 0011
+System.out.println(a & b);  // 1 (AND)
+System.out.println(a | b);  // 7 (OR)
+System.out.println(a ^ b);  // 6 (XOR)
